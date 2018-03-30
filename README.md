@@ -23,8 +23,10 @@ https://fred.stlouisfed.org/series/GOLDAMGBD228NLBM
 
 https://fredhelp.stlouisfed.org/fred/data/understanding-the-data/recession-bars/
 
+# rexamples.com
 http://www.rexamples.com/
 
+# r-tutor.com
 http://www.r-tutor.com/
 
 https://flowingdata.com/2012/12/17/getting-started-with-charts-in-r/
