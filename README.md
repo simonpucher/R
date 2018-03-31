@@ -19,8 +19,8 @@ https://datamatters.blog/tag/quantmod/
 
 http://amunategui.github.io/wallstreet/
 
+# fred
 https://fred.stlouisfed.org/series/GOLDAMGBD228NLBM
-
 https://fredhelp.stlouisfed.org/fred/data/understanding-the-data/recession-bars/
 
 # rexamples.com
